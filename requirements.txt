@@ -1,0 +1,21 @@
+# ============================================================
+# ML-Based Inventory Optimization — Python Dependencies
+# ============================================================
+# Install all dependencies with:
+#   pip install -r requirements.txt
+#
+# Python version: 3.8 or higher recommended
+# ============================================================
+
+# Core scientific computing
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Optional: for Jupyter Notebook usage
+# jupyter>=1.0.0
+# ipykernel>=6.0.0
+
+# Optional: faster numerical operations (recommended for large runs)
+# scipy>=1.10.0
